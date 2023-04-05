@@ -1,0 +1,49 @@
+
+.logo-wrapper{
+    background-color: #E6E6E6;
+    padding: 15px;
+}
+.logo{
+    display: block;
+    margin: auto;
+}
+
+h1,h2{
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.footer{
+    background-color: #005677;
+    color: #fff;
+    text-align: center;
+    padding: 1px;
+}
+
+dd{
+    padding-left: 40px;
+}
+
+.footer i{
+    margin-left: 15px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #fff;
+}
